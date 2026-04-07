@@ -5,12 +5,20 @@
 
   var PRODUCTS = [
     { id: "sosis", name: "Risol sosis", priceLabel: "3k", priceIdr: 3000, image: "images/RISOL-SOSIS.jpeg" },
+    { id: "mayo", name: "Risol Mayo", priceLabel: "3k", priceIdr: 3000, image: "images/RISOL-MAYO.jpeg" },
     { id: "ayam", name: "Risol ayam", priceLabel: "4k", priceIdr: 4000, image: "images/RISOL-AYAM.jpeg" },
     { id: "dimsum", name: "Risol dimsum", priceLabel: "4k", priceIdr: 4000, image: "images/RISOL-DIMSUM.jpeg" },
     { id: "chocrella", name: "Risol chocrella", priceLabel: "4k", priceIdr: 4000, image: "images/RISOL-COCHORELLA.jpeg" },
     { id: "matcha", name: "Risol matcha", priceLabel: "4k", priceIdr: 4000, image: "images/RISOL-MATCHA.jpeg" },
     { id: "pizzarella", name: "Risol pizzarella", priceLabel: "4k", priceIdr: 4000, image: "images/RISOL-PIZZARELLA.jpeg" },
     { id: "dimsum-mentai", name: "Risol Dimsum Mentai", priceLabel: "5k", priceIdr: 5000, image: "images/RISOL-DIMSUM-MENTAI.jpeg" },
+    {
+      id: "dimsum-mentai-combo-hemat",
+      name: "Risol Dimsum Mentai Combo Hemat isi 3",
+      priceLabel: "14k",
+      priceIdr: 14000,
+      image: "images/RISOL-DIMSUM-MENTAI-COMBO-HEMAT.jpeg",
+    },
     { id: "paket-hemat", name: "Risol Paket Hemat", priceLabel: "30k", priceIdr: 30000, image: "images/RISOL-PAKET-HEMAT.jpeg" },
   ];
 
